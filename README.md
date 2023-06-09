@@ -4,6 +4,15 @@ Este é um repositório dedicado ao curso CS50 de Harvard. Aqui você encontrar�
 
 Esse curso é incrível, todas as aulas são densas e de muito conteúdo. A maioria das vídeo aulas tem mais de 1h 40min de duração e muitas com mais de 2h. O inglês, de início, parece uma barreira e o David, o professor, fala muito rápido que muitas das vezes, dá trabalho até para acompanhar com a legenda. Mas, conforme os minutos das aulas vão passando, tem momentos que você se vê só ouvindo, sem nem ler mais a legenda tamanho é o treino da audição.
 
+Cada módulo tem:
+1. A vídeo aula que pode ser assistida também no youtube, fora da plataforma
+2. Alguns exercícios, todos eles com:
+      * Explicações escritas e em vídeo
+      * Os testes para serem realizados no workspace com o resultado esperado pela plataforma
+      * A avaliação do código através de um teste automatizado chamando _**check50**_, onde seu código deve rodar perfeito para ser validado como feito na plataforma. Como se fosse a _**Moulinette**_ da _**École 42**_
+      * Uma avaçiação de estilo para analisar o estilo do seu código chamado _**style50**_: como você escreve, se tem comentários, se é um código limpo, sinalizando o que pode melhorar. Como se fosse a _**Norminette**_ da _**École 42**_ , com a diferença que ela não trava a correção do seu código pelo _**check50**_
+3. Um laboratório que é um projeto mais avançado usando os conhecimentos do módulo e dos exercícios desse módulo
+
 Foi nesse curso que eu, finalmente, aprendi, entendi e visualizei alguns conceitos que eram muito abstratos para mim na faculdade e cito alguns abaixo:
 
 - [x] Linguagem de Computador
